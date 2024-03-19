@@ -1,2 +1,4 @@
-# web-340
-Repository for work in WEB 340
+# WEB 340 Node.js
+## Contributors
+- Richard Krasso
+- Brandon Salvemini
