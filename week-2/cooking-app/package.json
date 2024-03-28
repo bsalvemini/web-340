@@ -1,0 +1,13 @@
+{
+  "name": "cooking-app",
+  "version": "1.0.0",
+  "description": "A simple recipe app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node tester.js"
+  },
+  "keywords": [],
+  "author": "Brandon Salvemini",
+  "license": "ISC"
+}
