@@ -1,0 +1,19 @@
+{
+  "name": "fantasy-game-characters",
+  "version": "1.0.0",
+  "description": "Fantasy character creation using child process",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Brandon Salvemini",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.11",
+    "jest": "^29.7.0"
+  }
+}
